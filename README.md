@@ -99,7 +99,7 @@ and data sections. These checks do not establish functional compatibility.
 powershell -ExecutionPolicy Bypass -File scripts\make_delivery.ps1 `
     -VhdPath C:\Users\<you>\Desktop\appraiser.vhd
 ```
-Same as bellatrix in the collection. 
+Same as bellatrix in the LoaderVille collection -> https://github.com/Nuf1p/LoaderVille
 
 Default `File` form places the marker and DLL beside the host.
 `-LocalForm Folder` selects `compattelrunner.exe.local\appraiser.dll`.
