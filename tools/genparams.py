@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Emit hash_params.inc -- per-build hash parameters for the bellatrix payload.
+"""Emit hash_params.inc -- per-build hash parameters for the dotlocal payload, same as the bellatrix one.
 
     genparams.py init --outdir DIR [--seed INT]
 
